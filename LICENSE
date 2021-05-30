@@ -1,3 +1,8 @@
+ALL FILES THEY IN THE FOLDER DEPS AND THEYR FILENAME BEGIN WITH stbi_img ARE COPYED OR BUILD BASED ON:
+https://github.com/nothings/stb
+
+THE OTHER FILES ARE UNDER THE FOLLOWING LICENSE:
+
 MIT License
 
 Copyright (c) 2021 Sharkbyteprojects
